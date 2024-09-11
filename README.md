@@ -10,4 +10,10 @@ Ejemplos de Python sobre listas, tablas, conjuntos y diccionarios
 - ![image](https://github.com/user-attachments/assets/a571aca5-3563-4a68-8386-e1342feeffab)
 - Resultado
 - ![image](https://github.com/user-attachments/assets/5c728555-38d2-4e7f-84d4-b8be1bb09f3e)
+## Ejemplo de conjunto set
+- Codigo
+- ![image](https://github.com/user-attachments/assets/c1643ba4-0b0c-416c-804b-7e21092079b4)
+- Resultado
+- ![image](https://github.com/user-attachments/assets/075a3775-6dba-4e99-a00d-7214e6c99386)
+
 
