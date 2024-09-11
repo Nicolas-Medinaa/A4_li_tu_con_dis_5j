@@ -15,5 +15,11 @@ Ejemplos de Python sobre listas, tablas, conjuntos y diccionarios
 - ![image](https://github.com/user-attachments/assets/c1643ba4-0b0c-416c-804b-7e21092079b4)
 - Resultado
 - ![image](https://github.com/user-attachments/assets/075a3775-6dba-4e99-a00d-7214e6c99386)
+## Ejemplo de Diccionario
+- Codigo
+- ![image](https://github.com/user-attachments/assets/7390957e-914f-46e7-b257-286407c01fa1)
+- resultado
+- ![image](https://github.com/user-attachments/assets/8d59e5e4-ab2e-45de-a827-b66d7851a95f)
+
 
 
